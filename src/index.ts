@@ -8,7 +8,7 @@ if (args && args.length) {
     const ls = spawn('npm', ['run', ...args]);
 
     ls.stdout.on('data', (data) => {
-        console.log(`stdout: ${data}`);
+        console.log(data);
     });
 
     ls.stderr.on('data', (data) => {
