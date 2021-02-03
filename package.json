@@ -1,6 +1,6 @@
 {
   "name": "npm-run-alias",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Run npm scripts - `npm run` command",
   "main": "index.js",
   "scripts": {
