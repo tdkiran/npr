@@ -1,5 +1,5 @@
 {
-  "name": "npr",
+  "name": "npm-run-alias",
   "version": "0.0.1",
   "description": "Run npm scripts - `npm run` command",
   "main": "index.js",
